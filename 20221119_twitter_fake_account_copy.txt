@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+STATEMENT
+
+Zikin 本人在此声明，Twitter@zikintong 不是本人所注册的，本人也无该账号所有权，目前的持有者的身份和模仿目的未知，建议所有人拉黑此账号，并且举报此账号为假冒
+
+本消息使用指纹为 BF50ACD82604934D4CD7DF35EC395393AE4E2077 的 PGP 密钥签名，此公钥在一年前已经由我本人公开至 Github，可以在此找到 https://github.com/Zikinn/PGP ，可以使用其中的公钥验证该消息有效性，一份 PGP 的简易使用教程在我的博客 https://zikin.org/pgp/
+
+若需要与本人保持联系，本人的公开邮箱为 realzikin@protonmail.com ，此外请悉知，我本人不会在2025年以前注册任何ID/nickname有关 「Zikin」「zikintong」「realzikin」的账号，且本人不会再发布任何有关政治内容，所有此类账号均为假冒，请勿与其沟通。
+
+不要给我找新的麻烦。
+
+本人请求所有人代我公开和转发此声明，公开日期为 11/19/2022 (UTC+8)
+
+本声明的副本全文可以在 github.com/Zikinn/statement/blob/main/20221119_twitter_fake_account_copy.txt 查看
+
+Zikin 11/19/2022
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS/UKzYJgSTTUzX3zXsOVOTrk4gdwUCY3h8xQAKCRDsOVOTrk4g
+dwyuAQCjqAO18CPEO7Mq7jtCO43VBkl0JdIlA7J+TE4N7MMgcQEA84JMqVfG9jJ3
+nibCEyQ8N+mpkNcJsIZSd2a5FyHOugg=
+=JIBM
+-----END PGP SIGNATURE-----
