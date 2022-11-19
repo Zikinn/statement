@@ -11,15 +11,15 @@ Zikin 本人在此声明，Twitter@zikintong 不是本人所注册的，本人�
 
 本人授权 Rick (twitter@sanverde) 代我公开此声明在 Twitter 上，公开日期为 11/19/2022 (UTC+8)
 
-本声明的副本全文可以在 github.com/zikinn/statement/20221119_twitter_fake_account.md 查看
+本声明的副本全文可以在 github.com/Zikinn/statement/blob/main/20221119_twitter_fake_account.md 查看
 
-A copy of this statement is available in its entirety at github.com/zikinn/statement/20221119_twitter_fake_account.md
+A copy of this statement is available in its entirety at github.com/Zikinn/statement/blob/main/20221119_twitter_fake_account.md
 
 Zikin 11/19/2022<br>
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS/UKzYJgSTTUzX3zXsOVOTrk4gdwUCY3h27AAKCRDsOVOTrk4g
-dzifAP9OWghYIHacGmPCVZH8CPVkLVHygAyXHE8Ys8cjkidFNAD7B6ge7W/GIl+w
-0EOV7AE1nWai5BSm6mWB/maPHOoagAs=<br>
-=637Z<br>
+iHUEARYKAB0WIQS/UKzYJgSTTUzX3zXsOVOTrk4gdwUCY3h3bAAKCRDsOVOTrk4g
+d6FTAP4iHMfc0tdcvU6h1BNfXgAuGaWmPfrSajdyQQcavcC6ugEAhCxkXDlpIvA4
+s5x2CtTdu/QRAq6LO7ZYDI4WXop7hAI=<br>
+=n2l7<br>
 -----END PGP SIGNATURE-----
