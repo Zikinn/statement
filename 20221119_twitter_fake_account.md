@@ -1,4 +1,4 @@
------BEGIN PGP SIGNED MESSAGE-----
+-----BEGIN PGP SIGNED MESSAGE-----<br/>
 Hash: SHA512
 
 STATEMENT
@@ -16,11 +16,11 @@ Zikin 本人在此声明，Twitter@zikintong 不是本人所注册的，本人�
 A copy of this statement is available in its entirety at github.com/zikinn/statement/20221119_twitter_fake_account.md
 
 Zikin
-11/19/2022
+11/19/2022<br/>
 -----BEGIN PGP SIGNATURE-----
 
 iHUEARYKAB0WIQS/UKzYJgSTTUzX3zXsOVOTrk4gdwUCY3h2MAAKCRDsOVOTrk4g
 dzT8AP454GDmyOVHAmIyTOzXNwPrKyf0Q9+9dnY5vw9RvXeV6gD/b5zWhcwDwpj/
-tJOZRV/lAQJfhmzqHtHOuy+qZfYjyg0=
-=5iZL
+tJOZRV/lAQJfhmzqHtHOuy+qZfYjyg0=<br/>
+=5iZL<br/>
 -----END PGP SIGNATURE-----
